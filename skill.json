@@ -1,0 +1,17 @@
+{
+  "name": "genpark-lsm-tree-compaction-memtable-engine-skill",
+  "version": "1.0.0",
+  "description": "Log-Structured Merge Tree engine featuring mutable in-memory MemTables, Write-Ahead Logs (WAL), immutable SSTables, Bloom filter lookups, and multi-level compactions.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lsm-tree",
+    "database-storage",
+    "compaction",
+    "memtable",
+    "sstables"
+  ],
+  "dependencies": []
+}
